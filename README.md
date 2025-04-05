@@ -5,3 +5,6 @@ pada program yang saya buat ini saya membuat batasan maksimal 5 kota yang dapat 
 3. kota.h -> Header untuk struktur kota 
 4. kota.c -> Implementasi dari fungsi manajemen kota
 5. main.c -> Program utama
+
+Kekurangan pada program yang saya buat:
+1. Untuk penginputan nama kota belum saya buat supaya bisa unlimited (masih terkena batas maksimal 5 kota saja)
